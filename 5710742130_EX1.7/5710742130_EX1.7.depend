@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409561664 source:c:\users\dell 8.1\documents\5710742130\5710742130_ex1.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
